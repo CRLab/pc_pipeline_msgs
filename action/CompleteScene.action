@@ -1,0 +1,8 @@
+#Request
+---
+#Result
+sensor_msgs/PointCloud2[] partial_views
+shape_msgs/Mesh[]  meshes
+geometry_msgs/PoseStamped[]  poses
+---
+#Feedback
